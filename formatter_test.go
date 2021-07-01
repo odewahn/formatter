@@ -1,5 +1,7 @@
 package formatter
 
+// here's some bullshit
+
 import (
 	"testing"
 
